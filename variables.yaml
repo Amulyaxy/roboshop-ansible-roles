@@ -1,3 +1,4 @@
 MONGODB_HOST: mongodb.awsdevops.website
 REDIS_HOST: redis.awsdevops.website
+CATALOGUE_HOST: catalogue.awsdevops.website
 
